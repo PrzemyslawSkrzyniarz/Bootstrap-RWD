@@ -1,3 +1,5 @@
+https://przemyslawskrzyniarz.github.io/Bootstraprwd/
+
 1. Using knowledge about Bootstrap, create a page section based on the attached graphics.
 
 2. On devices with resolutions above 768px, the section is to have three columns, in the range of 576-768px two columns, and on devices below 576px one column.
