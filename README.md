@@ -1,4 +1,4 @@
-https://github.com/PrzemyslawSkrzyniarz/Bootstrap-RWD
+https://przemyslawskrzyniarz.github.io/Bootstrap-RWD/
 
 1. Using knowledge about Bootstrap, create a page section based on the attached graphics.
 
